@@ -6,8 +6,8 @@ from telegram.ext import (
     CallbackQueryHandler, MessageHandler, filters
 )
 
-BOT_TOKEN = "8799427894:AAFAhyWSwFxmhZ0uHwIMKtBsP9S8WSvOnUI"
-ADMIN_ID = 6624597995
+BOT_TOKEN = ""
+ADMIN_ID = 
 
 # 📦 DATABASE
 conn = sqlite3.connect("bot.db")
